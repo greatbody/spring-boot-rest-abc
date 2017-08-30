@@ -1,5 +1,6 @@
 # ignore .files
 .gradle/
 .idea/
+build/
 gs-rest-service-me.iml
 
